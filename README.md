@@ -1,4 +1,4 @@
-Thought for 1 second### Gasolinera API
+
 
 ## Descripción
 
@@ -11,6 +11,15 @@ Este proyecto Spring Boot implementa una API RESTful para gestionar un sistema d
 - Spring Data JPA
 - API RESTful
 - Maven
+
+
+## Aplicación Desplegada
+
+La aplicación está desplegada y disponible en:
+[https://gasolinera-v56r.onrender.com](https://gasolinera-v56r.onrender.com)
+
+> **Nota:** El servicio puede estar en modo inactivo si no se ha utilizado recientemente. La primera solicitud puede tardar unos momentos mientras el servicio se reinicia.
+
 
 
 ## Endpoints de la API
