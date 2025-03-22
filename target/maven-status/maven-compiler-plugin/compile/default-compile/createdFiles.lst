@@ -1,0 +1,17 @@
+com\croncero\gasolinera\service\ProductoService.class
+com\croncero\gasolinera\service\TanqueService.class
+com\croncero\gasolinera\controller\SuministroController.class
+com\croncero\gasolinera\service\SurtidorService.class
+com\croncero\gasolinera\model\Producto.class
+com\croncero\gasolinera\model\Surtidor.class
+com\croncero\gasolinera\GasolineraApplication.class
+com\croncero\gasolinera\model\Suministro.class
+com\croncero\gasolinera\repository\ProductoRepository.class
+com\croncero\gasolinera\controller\ProductoController.class
+com\croncero\gasolinera\controller\SurtidorController.class
+com\croncero\gasolinera\model\Tanque.class
+com\croncero\gasolinera\service\SuministroService.class
+com\croncero\gasolinera\repository\SurtidorRepository.class
+com\croncero\gasolinera\controller\TanqueController.class
+com\croncero\gasolinera\repository\TanqueRepository.class
+com\croncero\gasolinera\repository\SuministroRepository.class
